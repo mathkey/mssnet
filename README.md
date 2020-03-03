@@ -42,7 +42,7 @@ The superparameters are set in the '__main__' function of test_i3d_charades.py. 
 To train I3D with this repo:
 ``sh
 python train_i3d_charades.py
-```
+``
 
 The superparameters are set in the '__main__' function of test_i3d_charades.py, too.
 
