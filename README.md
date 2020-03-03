@@ -21,7 +21,7 @@ The code is built with following libraries:
 
 We have trained on [Charades](https://deepmind.com/research/open-source/open-source-datasets/kinetics/) dataset with this code. Most of data preprocessing have been done, while the remained precedure is the data preparation:
 
-- Download tar file from [Charades](http://ai2-website.s3.amazonaws.com/data/Charades_v1_rgb.tar) and extract files  into [data/Charades_v1/Charades_v1_rgb](data/Charades_v1/Charades_v1_rgb). The preprocessed annotations have already been contained and in this repo. If necessary, The preprocessing code will be add in this repo.
+- Download tar file from [Charades](http://ai2-website.s3.amazonaws.com/data/Charades_v1_rgb.tar) and extract files  into "data/Charades_v1/Charades_v1_rgb". The preprocessed annotations have already been contained and in this repo. If necessary, The preprocessing code will be add in this repo.
 
 ## Code
 
